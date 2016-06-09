@@ -1,2 +1,2 @@
 # HadoopTraining
-Training materials for QA 
+Training materials for QA.
